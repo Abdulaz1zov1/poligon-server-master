@@ -1,0 +1,6 @@
+node_modules
+.idea
+seeder.js
+uploads
+public/uploads
+package-lock.json
